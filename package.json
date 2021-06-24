@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "CLI utility to fastly run measurements of all functions exported from node.js file",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/whiteand/measureperf.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
