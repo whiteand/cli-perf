@@ -1,6 +1,6 @@
 {
   "name": "cli-perf",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "CLI utility to fastly run measurements of all functions exported from node.js file",
   "main": "index.js",
   "repository": {
