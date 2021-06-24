@@ -1,5 +1,7 @@
+#!/usr/bin/env node
 const path = require("path");
 const r = require("benchmark");
+
 
 async function main({ suiteFilePath }) {
   const funcs = require(path.resolve(process.cwd(), suiteFilePath));
