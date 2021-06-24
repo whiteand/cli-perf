@@ -1,4 +1,4 @@
-# measureperf
+# cli-perf
 
 It's an utility you can use to measure performance of some of your js functions.
 
@@ -44,7 +44,7 @@ And you want to findout which of the functions are the fastest.
 You can run
 
 ```
-npx measureperf ./concatVariants.js
+npx cli-perf ./concatVariants.js
 ```
 
 And it will show you benchmark measurements:
