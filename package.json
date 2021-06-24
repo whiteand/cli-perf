@@ -9,6 +9,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "cli-perf": "index.js"
+  },
   "keywords": [
     "performance",
     "measure",
