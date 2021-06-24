@@ -1,0 +1,20 @@
+{
+  "name": "measureperf",
+  "version": "0.0.1",
+  "description": "CLI utility to fastly run measurements of all functions exported from node.js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "performance",
+    "measure",
+    "cli",
+    "utility"
+  ],
+  "author": "whiteand",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
